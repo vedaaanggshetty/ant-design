@@ -1,5 +1,5 @@
 ---
-category: Components
+category: Component
 group: Data Display
 title: Carousel
 description: A set of carousel areas.
